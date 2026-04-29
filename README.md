@@ -167,7 +167,7 @@ it’s about understanding the person behind the decision.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Arwa Alshaikh
 Farah Alnaqib
